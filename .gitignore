@@ -1,0 +1,4 @@
+node_modules/*
+dist/json/*
+src/sprite.svg
+**/.DS_Store
